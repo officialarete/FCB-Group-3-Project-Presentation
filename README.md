@@ -48,6 +48,8 @@ a place where you can store and organize large amounts of data very well.
 With the data in Power BI , I started analyzing it to find interesting patterns and created visual charts to show these patterns clearly. 
 These visuals help understand things like which candidate, political party, geo-politcial zone has most of the vote.
 
+![](E4.jpg)
+
 
 ## Insights
 Tinubu: Secured victory with 8 million votes, demonstrating broad support across various regions.
@@ -57,9 +59,11 @@ Kwankwanso:  Received 1 million votes, adding to the diversity of political voic
 Total Votes Cast: 22 million votes, emphasizing the significance of the electoral process in shaping Nigeria's political landscape.
 
 ## Recommendation
+![](E17.jpg)
 
 
 ## Conclusion
-  
+![](E18.jpg)
 
-![](NH.jpg)
+
+
