@@ -42,9 +42,12 @@ https://www.kaggle.com/datasets/ugwukizito/nigerian-election-2023
 Next, I cleaned the data, which means I made sure it was neat and ready to be analyzed. After that, I uploaded this clean data into a MS Power BI, 
 a place where you can store and organize large amounts of data very well.
 
+![](Transform.jpg)
+
 ## Data Analysis and Visualization
 With the data in Power BI , I started analyzing it to find interesting patterns and created visual charts to show these patterns clearly. 
 These visuals help understand things like which candidate, political party, geo-politcial zone has most of the vote.
+
 
 ## Insights
 Tinubu: Secured victory with 8 million votes, demonstrating broad support across various regions.
@@ -54,6 +57,7 @@ Kwankwanso:  Received 1 million votes, adding to the diversity of political voic
 Total Votes Cast: 22 million votes, emphasizing the significance of the electoral process in shaping Nigeria's political landscape.
 
 ## Recommendation
+
 
 ## Conclusion
   
