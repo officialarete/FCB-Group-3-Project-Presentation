@@ -1,7 +1,7 @@
 # FCB-Group-3-Project
 Analysis of 2023 Nigerian Presidential Election using power BI. This analysis was crafted from the already exiting data of the past election in which was said to have one of the highest turnouts in the history of Nigeria. 
 ## Report and Visualization of 2023 Nigerian Presidential Election
-![](E2)
+![](E2.jpg)
 
 ## Table of Content
 
@@ -29,6 +29,8 @@ The dashboard will also provide key metrics such as total votes per party, distr
 
 ## Data Sources 
 The primary data sources for this project is gotten from Kaggle.com with the name FCB Data analysis class.
+https://www.google.com/amp/s/www.vanguardngr.com/2023-presidential-election-results-by-states/amp/
+https://www.kaggle.com/datasets/ugwukizito/nigerian-election-2023
 
 
 
