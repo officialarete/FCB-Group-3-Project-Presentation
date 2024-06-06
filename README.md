@@ -58,9 +58,13 @@ We also made use of Card tool to show totalnumber of state, local government are
 
 ## Insights
 Tinubu: Secured victory with 8 million votes, demonstrating broad support across various regions.
+
 Atiku: Narrowly trailed with 6 million votes, showcasing national appeal, particularly in key battleground states.
+
 Obi: Earned 6 million votes, representing a notable presence in specific regions or demographic groups.
+
 Kwankwanso:  Received 1 million votes, adding to the diversity of political voices.
+
 Total Votes Cast: 22 million votes, emphasizing the significance of the electoral process in shaping Nigeria's political landscape.
 
 ## Recommendation
