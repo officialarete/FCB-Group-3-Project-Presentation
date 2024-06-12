@@ -49,9 +49,9 @@ Using the power query editor, we cleaned the data, which means we made sure it w
 
 ## Data Analysis and Visualization
 With the data in Power BI dashboard area, we started analyzing it to find interesting patterns and created visual charts to show these patterns clearly. 
-These visuals help understand things like which candidate, political party, geo-politcial zone has most of the vote.
-We made use of the sclier tool to compare candidate performance and how the candidate perfom accoding to geopolitcial zoens.
-We also made use of Card tool to show totalnumber of state, local government area, vote per candidtate etc.
+These visuals help understand things like which candidate, political party, geo-political zone has most of the vote.
+We made use of the slicer tool to compare candidate performance and how the candidate perfom accoding to geo-politicial zones.
+We also made use of Card tool to show total number of state, local government area, vote per candidtate etc.
 
 ![](E4.jpg)
 
